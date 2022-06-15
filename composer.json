@@ -6,11 +6,16 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
+        "bmatovu/laravel-xml": "^3.1",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "mtownsend/response-xml": "^2.1",
+        "openlss/lib-array2xml": "^1.0",
+        "spatie/array-to-xml": "^3.1",
+        "tymon/jwt-auth": "dev-develop"
     },
     "require-dev": {
         "facade/ignition": "^2.5",

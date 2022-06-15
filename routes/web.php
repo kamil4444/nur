@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NurseryController;
+use App\Http\Controllers\AuthController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,5 +14,15 @@ use App\Http\Controllers\NurseryController;
 |
 */
 
-Route::get('/', [NurseryController::class, 'index']);
-Route::get('/json/export', [NurseryController::class, 'exportToJSON'])->name('export_to_JSON');
+Route::get('/', function(){
+    return view('login');
+})->name('loginview');
+
+Route::get('/registration', function(){
+    return view('registration');
+})->name('registrationview');
+
+Route::get('/import_view', function(){
+    return view('import_view');
+})->name('import_view');
+

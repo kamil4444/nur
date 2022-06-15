@@ -1,0 +1,7 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  text/xml
+Date:          Tue, 07 Jun 2022 18:55:08 GMT
+
+<?xml version="1.0" encoding="UTF-8"?>
+<document><nursery><id>9</id><institution_type>Żłobek</institution_type><name>Niepubliczny żłobek "Akademia uśmiechu"</name><institution_localization>WIELKOPOLSKIE &gt; Powiat ostrowski &gt; Odolanów &gt; Gliśnica ul. Odolanowska 25</institution_localization><webpage></webpage><email>budan@vp.pl</email><phone_num>535036212</phone_num><places_amount>45</places_amount><amount_of_registrations_children>0</amount_of_registrations_children><monthly_payment>350.0 zł</monthly_payment><hourly_payment_for_out_of_10_hours></hourly_payment_for_out_of_10_hours><hourly_payment></hourly_payment><monthly_food_fee>0.0 zł</monthly_food_fee><hourly_food_fee></hourly_food_fee><sales>Zniżka - Rodzeństwo uczęszczające do instytucji: 10.0% </sales><open_hours>Godziny pracy: Poniedziałek, Wtorek, Środa, Czwartek, Piątek 6:30-16:30 </open_hours><is_adapted_for_disabled>TAK</is_adapted_for_disabled><leading_entity_name>Usługi Ogólnobudowlane "BUDAN" Andrzej Kwaśniewski</leading_entity_name><leading_entity_address></leading_entity_address><leading_entity_nip>9161278260</leading_entity_nip><leading_entity_regon>21429557</leading_entity_regon><leading_entity_number_of_registry_position>7064/P</leading_entity_number_of_registry_position><leading_entity_webpage></leading_entity_webpage><suspended_business_activity>NIE</suspended_business_activity></nursery></document>

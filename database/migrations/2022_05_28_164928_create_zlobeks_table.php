@@ -15,7 +15,7 @@ class CreateZlobeksTable extends Migration
     {
         Schema::create('zlobeks', function (Blueprint $table) {
             $table->id();
-            $table->string("Typ instytucji")->nullable();
+            $table->string("institution_type")->nullable();
             $table->string("Nazwa")->nullable();
             $table->string("Lokalizacja instytucji")->nullable();
             $table->string("Adress WWW żłobka/klubu")->nullable();
